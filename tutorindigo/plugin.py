@@ -10,7 +10,7 @@ config = {
     # Add here your new settings
     "defaults": {
         "VERSION": __version__,
-        "WELCOME_MESSAGE": "The place for all your online learning",
+        "WELCOME_MESSAGE": "TESTING AMANANET - The place for all your online learning",
         "PRIMARY_COLOR": "#3b85ff",  # cool blue
         # Footer links are dictionaries with a "title" and "url"
         # To remove all links, run:
@@ -22,7 +22,7 @@ config = {
         "FOOTER_LEGAL_LINKS": [
             {"title": "Terms of service", "url": "/tos"},
             {
-                "title": "Indigo theme for Open edX",
+                "title": "Amananet - Indigo theme for Open edX",
                 "url": "https://github.com/overhangio/tutor-indigo",
             },
         ],
